@@ -1,0 +1,20 @@
+{
+  "PartnerId": 1,
+  "PartnerName": "Foo1",
+  "Trackers": [
+    {
+      "Id": 1,
+      "Model": "ABC-100",
+      "ShipmentStartDtm": "08-17-2020 10:30:00",
+      "Sensors": [
+      ]
+    },
+    {
+      "Id": 2,
+      "Model": "ABC-200",
+      "ShipmentStartDtm": "08-18-2020 10:30:00",
+      "Sensors": [
+      ]
+    }
+  ]
+}
